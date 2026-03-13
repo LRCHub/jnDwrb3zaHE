@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Stand by Me",
+  "base_artist": "Ben E King",
+  "createdAt": "2026-03-13T00:28:24.970512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stand by Me - Live",
+      "artist": "Mickey Gilley",
+      "has_synced": false,
+      "path": "select/01_Stand_by_Me_-_Live_Mickey_Gilley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stand By Me (Single Version)",
+      "artist": "Mickey Gilley",
+      "has_synced": false,
+      "path": "select/02_Stand_By_Me_(Single_Version)_Mickey_Gilley.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stand by Me",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/03_Stand_by_Me_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stand By Me",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Stand_By_Me_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stand By Me",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/05_Stand_By_Me_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stand by Me (Live at Bonehead's Outtake)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/06_Stand_by_Me_(Live_at_Bonehead's_Outtake)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stand by Me (Mustique Demo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/07_Stand_by_Me_(Mustique_Demo)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Train in Vain (Stand by Me)",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/08_Train_in_Vain_(Stand_by_Me)_The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stand By Me",
+      "artist": "Golden Earring",
+      "has_synced": true,
+      "path": "select/09_Stand_By_Me_Golden_Earring.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stand By Me",
+      "artist": "Ben E. King",
+      "has_synced": true,
+      "path": "select/10_Stand_By_Me_Ben_E._King.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stand By Me",
+      "artist": "John Lennon",
+      "has_synced": true,
+      "path": "select/11_Stand_By_Me_John_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stand By Me",
+      "artist": "Sunflower Bean",
+      "has_synced": true,
+      "path": "select/12_Stand_By_Me_Sunflower_Bean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stand By Me",
+      "artist": "Ben E King",
+      "has_synced": false,
+      "path": "select/pl_01_Stand_By_Me_Ben_E_King.txt"
+    }
+  ]
+}
